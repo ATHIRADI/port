@@ -1,5 +1,5 @@
 {
-  "heroImage": "/Images/heroImage.jpg",
+  "heroImage": "./Images/heroImage.jpg",
   "name": "Rajini kanth",
   "text": "I'm a full stack developer with expertise in both the frontend and backend."
 }
