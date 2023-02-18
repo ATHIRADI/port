@@ -2,25 +2,25 @@
   {
     "id": 1,
     "name": "Home",
-    "icon": "/Images/Home.svg",
+    "icon": "./Images/Home.svg",
     "href": "hero"
   },
   {
     "id": 2,
     "name": "About",
-    "icon": "/Images/About.svg",
+    "icon": "./Images/About.svg",
     "href": "about"
   },
   {
     "id": 3,
     "name": "Portfolio",
-    "icon": "/Images/Portfolio.svg",
+    "icon": "./Images/Portfolio.svg",
     "href": "portfolio"
   },
   {
     "id": 4,
     "name": "Contact",
-    "icon": "/Images/Contact.svg",
+    "icon": "./Images/Contact.svg",
     "href": "contact"
   }
 ]
