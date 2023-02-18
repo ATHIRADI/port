@@ -1,6 +1,6 @@
 {
   "name": "RAJINI KANTH",
-  "aboutImage": "/Images/heroImage.jpg",
+  "aboutImage": "./Images/heroImage.jpg",
   "text": "I'm a full stack developer with expertise in both the frontend and backend. I'm passionate about creating innovative solutions to complex problems through cutting-edge coding and design techniques. With my knowledge of HTML, CSS, JavaScript, Node.js, React and more, I'm well-equipped to work on a wide range of projects. Over the past few years, I've been involved in numerous successful web applications that have made an impact on users all over the world. My enthusiasm for technology has led me to explore new technologies such as artificial intelligence and machine learning. Working at the intersection of design and development gives me unique insights into how best to create user experiences for maximum engagement and satisfaction with clients' products or services.",
   "bioLeft": [
     {
