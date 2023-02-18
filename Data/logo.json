@@ -1,4 +1,4 @@
 {
-  "logoImage": "/Logo.svg",
+  "logoImage": "./Logo.svg",
   "logName": "Superstar"
 }
