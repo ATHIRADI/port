@@ -2,37 +2,37 @@
   "projects": [
     {
       "id": 1,
-      "ProjectImage": "/Images/1.png",
+      "ProjectImage": "./Images/1.png",
       "title": "Project #1",
       "category": ["front", "all"]
     },
     {
       "id": 2,
-      "ProjectImage": "/Images/2.png",
+      "ProjectImage": "./Images/2.png",
       "title": "Project #2",
       "category": ["full", "front", "back", "all"]
     },
     {
       "id": 3,
-      "ProjectImage": "/Images/3.png",
+      "ProjectImage": "./Images/3.png",
       "title": "Project #3",
       "category": ["back", "front", "all"]
     },
     {
       "id": 4,
-      "ProjectImage": "/Images/4.png",
+      "ProjectImage": "./Images/4.png",
       "title": "Project #4",
       "category": ["back", "front", "all"]
     },
     {
       "id": 5,
-      "ProjectImage": "/Images/5.png",
+      "ProjectImage": "./Images/5.png",
       "title": "Project #5",
       "category": ["full", "all"]
     },
     {
       "id": 6,
-      "ProjectImage": "/Images/1.png",
+      "ProjectImage": "./Images/1.png",
       "title": "Project #6",
       "category": ["full", "all"]
     }
