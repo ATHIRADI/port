@@ -1,0 +1,116 @@
+{
+  "name": "RAJINI KANTH",
+  "aboutImage": "/Images/heroImage.jpg",
+  "text": "I'm a full stack developer with expertise in both the frontend and backend. I'm passionate about creating innovative solutions to complex problems through cutting-edge coding and design techniques. With my knowledge of HTML, CSS, JavaScript, Node.js, React and more, I'm well-equipped to work on a wide range of projects. Over the past few years, I've been involved in numerous successful web applications that have made an impact on users all over the world. My enthusiasm for technology has led me to explore new technologies such as artificial intelligence and machine learning. Working at the intersection of design and development gives me unique insights into how best to create user experiences for maximum engagement and satisfaction with clients' products or services.",
+  "bioLeft": [
+    {
+      "id": 1,
+      "name": "Birthday",
+      "content": "15.15.1995"
+    },
+    {
+      "id": 2,
+      "name": "Age",
+      "content": "32"
+    },
+    {
+      "id": 3,
+      "name": "Address",
+      "content": "Ave 11, New York, USA"
+    },
+    {
+      "id": 4,
+      "name": "Email",
+      "content": "superstar@superstar.com"
+    },
+    {
+      "id": 4,
+      "name": "Phone",
+      "content": "+1 123 456 78 90"
+    }
+  ],
+  "bioRight": [
+    {
+      "id": 1,
+      "name": "Nationality",
+      "content": "North Korean"
+    },
+    {
+      "id": 2,
+      "name": "Study",
+      "content": "Univercity of Texas"
+    },
+    {
+      "id": 3,
+      "name": "Degree",
+      "content": "Master"
+    },
+    {
+      "id": 4,
+      "name": "Interest",
+      "content": "Thinking About Football"
+    },
+    {
+      "id": 4,
+      "name": "Freelance",
+      "content": "Available"
+    }
+  ],
+  "Skills": [
+    {
+      "id": 1,
+      "skill": "HTML",
+      "percent": 80
+    },
+    {
+      "id": 2,
+      "skill": "CSS",
+      "percent": 60
+    },
+    {
+      "id": 3,
+      "skill": "JavaScript",
+      "percent": 70
+    }
+  ],
+  "Eduction": [
+    {
+      "id": 1,
+      "Date": "2014 - 2015",
+      "Institute": "Oxford University",
+      "Degree": "Bachelor Degree"
+    },
+    {
+      "id": 2,
+      "Date": "2015 - 2016",
+      "Institute": "Stanford University",
+      "Degree": "Master Degree"
+    },
+    {
+      "id": 3,
+      "Date": "2017 - 2018",
+      "Institute": "Unkown University",
+      "Degree": "Phd"
+    }
+  ],
+  "Exeperience": [
+    {
+      "id": 1,
+      "Date": "2019 - 2020",
+      "Institute": "Toilet attendant",
+      "Job": "Cleaning Toilets"
+    },
+    {
+      "id": 2,
+      "Date": "2020 - 2021",
+      "Institute": "Garbage Collector",
+      "Job": "Collecting Garbage"
+    },
+    {
+      "id": 3,
+      "Date": "2021 - 2023",
+      "Institute": "Cleaner",
+      "Job": "Cleaning Vehicles"
+    }
+  ]
+}
