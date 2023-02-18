@@ -23,7 +23,7 @@ export const Single = () => {
                 <div className="grid w-full grid-cols-1 gap-5 md:grid-cols-2 justify-items-center">
                     {projects.map(item => item.filtered === true ? (
                         <div key={item.id} className="relative w-full cursor-pointer h-96 group ">
-                            <Image className="w-full rounded-md h-96" src={item.ProjectImage} width="1000" height="1000" />
+                            <Image className="w-full rounded-md h-96" src={item.ProjectImage} width="1000" height="1000" alt="projects" />
                             <div className="absolute bottom-0 z-10 flex flex-col items-center justify-center w-full transition-all duration-500 opacity-0 rounded-b-md h-1/5 bg-black-color group-hover:opacity-80">
                                 <h1 className="text-white-color">{item.title}</h1>
                             </div>
