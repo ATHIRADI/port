@@ -1,7 +1,7 @@
 import { useTypewriter } from 'react-simple-typewriter'
 export const TypeEffect = () => {
     const [text, count] = useTypewriter({
-        words: [`Fullstack Developer`, `Frontend Developer`, `Backend Developer`,],
+        words: ["Fullstack Developer", "Frontend Developer", "Backend Developer"],
         loop: true,
         typeSpeed: 100,
         deleteSpeed: 50,
