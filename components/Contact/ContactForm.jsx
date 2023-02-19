@@ -56,7 +56,7 @@ export const ContactForm = () => {
                     name="message"
                     rows="3"
                 ></textarea>
-                <button className="px-5 py-2 transition-all duration-500 shadow-xl w-44 bg-black-color text-white-color hover:scale-105">Contact Me</button>
+                <button className="px-5 py-2 transition-all duration-500 shadow-xl w-44 bg-black-color text-white-color hover:scale-105">{!button ? "Sent Message" : "Sending..."}</button>
                 <ToastContainer position="bottom-left" />
             </form>
         </div>
